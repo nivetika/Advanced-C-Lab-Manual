@@ -1,8 +1,8 @@
 EXP NO:11 C PROGRAM TO DISPLAY STACK ELEMENTS USING AN ARRAY.
 
-##NAME:DHARSANA A
+##NAME:NIVETIKA K
 
-##REG NO:212224060061
+##REG NO:212224060182
 
 Aim:
 To write a C program to display stack elements using an array.
